@@ -4,7 +4,27 @@
 ## Web Developer 
 I believe that creativity & hardworking are the platform for excellence. I will prove my creativity and contribution to work in a challenging environment where necessary if you give me an opportunity and remember you won't be going to regret.
 
-Skills:     HTML / CSS/JS/Oracle/Core java/UML/XML/Angular/Spring/Spring boot/Android
+Skills:  
+###Coding Language:
+Java .
+###Front-end technologies :
+HTML, CSS, Bootstrap, JavaScript,JQuery, AJAX, Swing, Angular
+###Server Side:
+Programming Servlets, JSP.
+###Back-end technologies:
+Spring MVC, Spring Boot, JDBC, JPA, JSON, XML, Hibernate, Maven.
+###Database Development :
+Oracle, MySQL, SQL Server.
+###O-O System Analysis and Design:
+UML.
+###Operating Systems:
+Windows 10, 11. 
+###Project Management tools:
+GitHub, GitLab.
+###App Development:
+Android, Flutter.
+###Additional Knowledge:
+MS Office.
 
 - 🔭 I’m currently working on Fresher 
 - 🌱 I’m currently learning Flutter 
