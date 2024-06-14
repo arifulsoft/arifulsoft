@@ -9,9 +9,9 @@ I believe that creativity & hardworking are the platform for excellence. I will 
 
 <h4>Front-end technologies :</h4>
 HTML, CSS, Bootstrap, JavaScript,JQuery, AJAX, Swing, Angular
-###Server Side:
+<h4>Server Side:</h4>
 Programming Servlets, JSP.
-###Back-end technologies:
+<h4>Back-end technologies:</h4>
 Spring MVC, Spring Boot, JDBC, JPA, JSON, XML, Hibernate, Maven.
 ###Database Development :
 Oracle, MySQL, SQL Server.
