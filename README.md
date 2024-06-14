@@ -5,25 +5,25 @@
 I believe that creativity & hardworking are the platform for excellence. I will prove my creativity and contribution to work in a challenging environment where necessary if you give me an opportunity and remember you won't be going to regret.
 
 <h1>Skills:</h1>  
-<h4>Coding Language: Java.</h4>
+<h3>Coding Language:</h3> Java.
 
-<h4>Front-end technologies :</h4>
+<h3>Front-end technologies :</h3>
 HTML, CSS, Bootstrap, JavaScript,JQuery, AJAX, Swing, Angular
-<h4>Server Side:</h4>
+<h3>Server Side:</h3>
 Programming Servlets, JSP.
-<h4>Back-end technologies:</h4>
+<h3>Back-end technologies:</h3>
 Spring MVC, Spring Boot, JDBC, JPA, JSON, XML, Hibernate, Maven.
-###Database Development :
+<h3>Database Development :</h3>
 Oracle, MySQL, SQL Server.
-###O-O System Analysis and Design:
+<h3>O-O System Analysis and Design:</h3>
 UML.
-###Operating Systems:
+<h3>Operating Systems:</h3>
 Windows 10, 11. 
-###Project Management tools:
+<h3>Project Management tools:</h3>
 GitHub, GitLab.
-###App Development:
+<h3>App Development:</h3>
 Android, Flutter.
-###Additional Knowledge:
+<h3>Additional Knowledge:</h3>
 MS Office.
 
 - 🔭 I’m currently working on Fresher 
