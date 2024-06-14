@@ -5,7 +5,7 @@
 I believe that creativity & hardworking are the platform for excellence. I will prove my creativity and contribution to work in a challenging environment where necessary if you give me an opportunity and remember you won't be going to regret.
 
 <h1>Skills:</h1>  
-<h4>Coding Language: <spane>Java.</spane></h4>
+<h4>Coding Language:Java.</h4>
 
 ###Front-end technologies :
 HTML, CSS, Bootstrap, JavaScript,JQuery, AJAX, Swing, Angular
