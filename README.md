@@ -4,9 +4,9 @@
 ## Web Developer 
 I believe that creativity & hardworking are the platform for excellence. I will prove my creativity and contribution to work in a challenging environment where necessary if you give me an opportunity and remember you won't be going to regret.
 
-Skills:  
-<h3>Coding Language:</h3>
-Java .
+<h1>Skills:</h1>  
+<h3>Coding Language:</h3><spane>Java.</spane>
+
 ###Front-end technologies :
 HTML, CSS, Bootstrap, JavaScript,JQuery, AJAX, Swing, Angular
 ###Server Side:
