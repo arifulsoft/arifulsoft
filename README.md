@@ -1,7 +1,7 @@
 ![I am GitHub Readme Generator's creator](https://media.licdn.com/dms/image/D5616AQEJXNs9TDZU5w/profile-displaybackgroundimage-shrink_350_1400/0/1719081617693?e=1724284800&v=beta&t=_fxg1cBro0vDhzolajpJRsLXmBTbuKaapOPqrlAaDlA)
 
 # Hi 👋 I am Ariful Islam
-## Web Developer 
+## Software Developer 
 I believe that creativity & hardworking are the platform for excellence. I will prove my creativity and contribution to work in a challenging environment where necessary if you give me an opportunity and remember you won't be going to regret.
 
 <h1>Skills:</h1>  
