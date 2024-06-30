@@ -2,7 +2,11 @@
 
 # Hi 👋 I am Ariful Islam
 ## Software Developer 
-I believe that creativity & hardworking are the platform for excellence. I will prove my creativity and contribution to work in a challenging environment where necessary if you give me an opportunity and remember you won't be going to regret.
+I am actively seeking a Software Developer role, Proficient
+in Angular, Spring Boot, Android & Flutter. Aim to contribute
+my expertise in these technologies to drive successful
+projects and gain valuable professional experience
+
 
 <h1>Skills:</h1>  
 <h3>Coding Language:</h3> Java.
